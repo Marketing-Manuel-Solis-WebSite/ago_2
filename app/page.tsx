@@ -9,7 +9,7 @@ const PRIMARY_COLOR = '#B2904D';
 const HOME_URL = "https://manuelsolis.com"; 
 
 // URL DE VIDEO ACTUALIZADA (Formato Embed para Bunny.net)
-const VIDEO_EMBED_URL = "https://iframe.mediadelivery.net/embed/547379/42c18351-06be-4f16-9687-9b1602c56e95?autoplay=true&muted=true&loop=true";
+const VIDEO_EMBED_URL = "https://iframe.mediadelivery.net/embed/547379/aa29ea08-0014-441d-a521-b3ae37f00988?autoplay=true&muted=true&loop=true";
 
 export default function LandingPage() {
   const [videoExpanded, setVideoExpanded] = useState(false);
